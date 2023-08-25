@@ -14,6 +14,8 @@
 I have graduated from Ly Tu Trong College in Ho Chi Minh City, my major is Website Design and I will become a Fontend Developer in the future.
 I possess an insatiable curiosity that drives me to explore every facet of my surroundings. This inquisitive nature has led me to dismantle devices like computers, phones, and electronic toys, unraveling their inner workings and gaining valuable insights. My fascination with computers has become a passion, and I dedicate my free time to mastering programming.
 Currently employed as a Web Front-end Developer, I aspire to join your esteemed company to further expand my horizons. Eager to embrace novel learning opportunities and engage in insightful discussions, I am keen to align my ambitions with your dynamic team and contribute positively to our shared goals.
+
+
 ---
 ## Connect with me:
 <a href="https://www.facebook.com/k.huy2704" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tuankietcoderr" height="30" width="40" style="max-width: 100%;"></a>
