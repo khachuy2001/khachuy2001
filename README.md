@@ -11,9 +11,8 @@
 
 ---
 ## MORE DETAILS
-I have graduated from Ly Tu Trong College in Ho Chi Minh City, my major is Website Design and I will become a Fontend Developer in the future.<br/>
-I possess an insatiable curiosity that drives me to explore every facet of my surroundings. This inquisitive nature has led me to dismantle devices like computers, phones, and electronic toys, unraveling their inner workings and gaining valuable insights. My fascination with computers has become a passion, and I dedicate my free time to mastering programming.<br/>
-Currently employed as a Web Front-end Developer, I aspire to join your esteemed company to further expand my horizons. Eager to embrace novel learning opportunities and engage in insightful discussions, I am keen to align my ambitions with your dynamic team and contribute positively to our shared goals.
+I have graduated from Ly Tu Trong College in Ho Chi Minh City, my major is Website Design and I will become a Full-stack Developer in the future.<br/>
+Currently seeking a position as a Website Developer, I aspire to join your esteemed company to further expand my horizons. Eager to embrace novel learning opportunities and engage in insightful discussions, I am keen to align my ambitions with your dynamic team and contribute positively to our shared goals.
 
 
 ---
@@ -50,7 +49,8 @@ Currently employed as a Web Front-end Developer, I aspire to join your esteemed 
 ---
 ## Services
 <div style="display: flex; align-items: center;">
-<a href="https://git-scm.com/" rel="nofollow"> <img src="https://camo.githubusercontent.com/fbfcb9e3dc648adc93bef37c718db16c52f617ad055a26de6dc3c21865c3321d/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667" alt="git" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="max-width: 100%;"> </a>
+  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="40" height="40" style="max-width: 100%;">
+  <img align="left" alt="GitHub" width="40px" src="https://user-images.githubusercontent.com/67447840/220037637-cff5669e-da0e-45de-98f1-cdf5b67fff26.png" style="max-width: 100%;">
 </div>
 
 
