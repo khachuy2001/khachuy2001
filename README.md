@@ -32,7 +32,7 @@ Currently employed as a Web Front-end Developer, I aspire to join your esteemed 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" style="max-width: 100%;">
 </div>
 ---
-## Backend
+## Fontend
 <div style="display: flex; align-items: center;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40" style="max-width: 100%;">
 
