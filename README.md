@@ -21,7 +21,7 @@ Currently seeking a position as a Website Developer, I aspire to join your estee
 
 
 ---
-## Fontend
+## Frontend
 <div style="display: flex; align-items: center;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" style="max-width: 100%;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" style="max-width: 100%;">
